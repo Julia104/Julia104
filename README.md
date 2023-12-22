@@ -1,6 +1,6 @@
 
-<h1 align="left">G'day👋, I'm Harison </h1>
-<h3 align="left">Data Ethusiast</h3>
+<h1 align="center">G'day👋, I'm Harison </h1>
+<h3 align="center">Data Ethusiast</h3>
 
 <img align="left" alt="Coding" width="400" src="https://share.creavite.co/293DcNxq0GVScCP2.gif">
 
