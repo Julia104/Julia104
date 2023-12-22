@@ -1,8 +1,8 @@
 
 <h1 align="center">Hey there👋, I'm Harison </h1>
-<h3 align="center">A Data Ethusiast</h3>
+<h3 align="center">Data Ethusiast</h3>
 
-<img align="top" alt="Coding" width="400" src="https://share.creavite.co/293DcNxq0GVScCP2.gif">
+<img align="center" alt="Coding" width="400" src="https://share.creavite.co/293DcNxq0GVScCP2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julia104&label=Profile%20views&color=0e75b6&style=flat" alt="julia104" /> </p>
 
