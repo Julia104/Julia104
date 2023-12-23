@@ -12,7 +12,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Julia104/my_portfolio/tree/main](https://github.com/Julia104/my_portfolio/tree/main)
+- 👨‍💻 My Portfolio & Projects are available @ [https://github.com/Julia104/my_portfolio/tree/main](https://github.com/Julia104/my_portfolio/tree/main)
 
 - 📫 How to reach me **hnaud01@gmail.com**
 
